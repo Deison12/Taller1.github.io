@@ -4,7 +4,7 @@
 \
 **Aclaraciones:**
 \
-1.Se supondrá que la aplicación solo se requiere para calcular el promedio de un único periodo especifico. 
-2.Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos. 
-3.No se realiza validación, ni se verifica calidad en los datos ingresados 
+1. Se supondrá que la aplicación solo se requiere para calcular el promedio de un único periodo especifico. 
+2. Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos. 
+3. No se realiza validación, ni se verifica calidad en los datos ingresados 
 
