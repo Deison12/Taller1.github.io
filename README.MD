@@ -7,3 +7,4 @@
 2. Para efectos de mantener la simplicidad del ejemplo no se contemplan manejar persistencia en el almacenamiento de los datos. 
 3. No se realiza validación, ni se verifica calidad en los datos ingresados 
 
+**Historia de usuario**
