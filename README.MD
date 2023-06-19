@@ -76,7 +76,10 @@
 Postcondiciones: Promedio de ventas 
 ```mermaid
  flowchart TD
-A(("          "))
+A(("          
+
+
+"))
 B["."]
 D["."]
 C["."]
