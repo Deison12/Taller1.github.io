@@ -74,6 +74,21 @@
 ( Σ(Precio del producto 1, Precio del producto 2, Precio del producto 3, Precio del producto n) / Total ventas) / Cantidad productos
 4. Se Muestra el promedio de las ventas obtenidas
 Postcondiciones: Promedio de ventas 
+```mermaid
+A(())
+B[]
+C[]
+D[]
+E[]
+F[]
+
+A-->B;
+A-->C;
+A-->D;
+D-->E;
+D-->F;
+```
+
 
 
 
