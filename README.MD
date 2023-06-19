@@ -77,11 +77,11 @@ Postcondiciones: Promedio de ventas
 ```mermaid
  flowchart TD
 A(("          "))
-B[""]
-D[""]
-C[""]
-E[""]
-F[""]
+B["."]
+D["."]
+C["."]
+E["."]
+F["."]
 
 A-->B;
 A-->C;
