@@ -75,12 +75,12 @@
 4. Se Muestra el promedio de las ventas obtenidas
 Postcondiciones: Promedio de ventas 
 ```mermaid
-A(())
-B[]
-C[]
-D[]
-E[]
-F[]
+A(("."))
+B["."]
+C["."]
+D["."]
+E["."]
+F["."]
 
 A-->B;
 A-->C;
