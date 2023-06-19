@@ -62,8 +62,11 @@
 ## CASO DE USO
 
 **Nombre:** Calculador del Promedio de ventas
+\
 **Actores:** Ferretero
+\
 **Propósito:** Guardar identificación, nombre, precio-
+\
 **Curso Normal de Eventos:**
 1. El Ferretero ingresa la cantidad de productos a evaluar.
 2. El Ferretero ingresa la identificación, nombre, curso, y el valor del producto.
