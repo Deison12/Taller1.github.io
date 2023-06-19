@@ -20,8 +20,13 @@
  D[/INGRESE LA CANTIDAD DE PRODUCTOS]
  E[/CANTIDAD DE PRODUCTOS/]
  F[DEFINIR ARREGKI DE IDENTIFICACION]
+ 
     A-->B;
-    B-->D;
+    B-->C;
     C-->D;
+    D-->E;
+    E-->F;
+    
+    
 ```
 
