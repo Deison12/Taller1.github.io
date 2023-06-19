@@ -30,6 +30,8 @@
  O[/INGRESE EL VALOR DEL PRODUCTO/]
  P[/CAPTURAR EL DATO EN PRICE/]
  Q[ASIGNAR PRICE A EL ARREGLO DE PRECIO]
+ R[\PARA I= 1 HASTA CANTIDADPRODUCTO INCREMENTANDO 1/]
+ S[PROMEDIO = PROMEDIO + PRECIO[i]/ CANTIDADPRODUCTO]
     A-->B;
     B-->C;
     C-->D;
@@ -45,6 +47,9 @@
     Ñ-->O;
     O-->P;
     P-->Q;
+    Q-->G;
+    G-->R;
+    R-->S;
     
    
     
