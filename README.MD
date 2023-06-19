@@ -65,7 +65,7 @@
 \
 **Actores:** Ferretero
 \
-**Propósito:** Guardar identificación, nombre, precio-
+**Propósito:** Guardar identificación, nombre, precio
 \
 **Curso Normal de Eventos:**
 1. El Ferretero ingresa la cantidad de productos a evaluar.
