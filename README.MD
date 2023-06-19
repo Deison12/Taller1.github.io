@@ -78,8 +78,8 @@ Postcondiciones: Promedio de ventas
  flowchart TD
 A(("."))
 B["."]
-C["."]
 D["."]
+C["."]
 E["."]
 F["."]
 
