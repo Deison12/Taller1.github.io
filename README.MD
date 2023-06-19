@@ -32,12 +32,8 @@
  Q[ASIGNAR PRICE A EL ARREGLO DE PRECIO]
  R[\PARA I= 1 HASTA CANTIDADPRODUCTO INCREMENTANDO 1/]
  S["PROMEDIO = PROMEDIO + PRECIO[i]/ CANTIDADPRODUCTO"]
-    A-->B;
-    B-->C;
-    C-->D;
-    D-->E;
-    E-->F;
-    F-->G;
+ T[/PROMEDIO/]
+ V(((FIN)))
     G-->H;
     H-->I;
     I-->J;
@@ -50,6 +46,10 @@
     Q-->G;
     G-->R;
     R-->S;
+    S-->R;
+    R-->T;
+    T-->V;
+    
     
    
     
