@@ -77,6 +77,33 @@ Postcondiciones: Promedio de ventas
 ![](https://github.com/Deison12/Taller1.github.io/blob/f6ab787bf3e6a6cad4f5ac1c25dde117bc776b9e/Diagrama%20en%20blanco.png)
 
 ***
+##Aproximación Seudocódigo
+ Algoritmo Ferreteria
+	Definir CantidadProductos Como Entero
+	Definir promedio como real
+	Escribir "INGRESE LA CANTIDAD DE PRODUCTOS A EVALUAR"
+	Leer CantidadProductos
+	Dimension  identificacion[CantidadProductos], nombres[CantidadProductos]
+	Dimension  precio[CantidadProductos]
+		
+	Para i=1 Hasta CantidadProductos Con Paso 1
+		Escribir "INGRESE LA IDENTIFICACION DEL PRODUCTO " ,i
+		Leer id
+		identificacion[i] = id
+		Escribir "INGRESE EL NOMBRE DEL PRODUCTO " ,i
+		Leer name
+		nombres[i] = mame
+		Escribir "INGRESE EL VALOR DE VENTA DEL PRODUCTO " ,i
+		Leer price
+		precio[i] = price
+	FinPara
+	Para i=1 hasta CantidadProductos con paso 1
+		promedio = promedio + precio[i] / CantidadProductos
+				
+	finPara
+	
+	Imprimir "El promedio de ventas es: ",promedio	
+FinAlgoritmo
 
 
 
