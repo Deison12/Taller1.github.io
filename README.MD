@@ -12,6 +12,8 @@
 \
 #CALCULADOR DE PROMEDIO DE VENTAS
 \
-mermaid
-floatchart TB
-A ((Inicio))
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
