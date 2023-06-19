@@ -12,5 +12,6 @@
 \
 #CALCULADOR DE PROMEDIO DE VENTAS
 \
+mermaid
 floatchart TB
 A ((Inicio))
