@@ -75,6 +75,7 @@
 4. Se Muestra el promedio de las ventas obtenidas
 Postcondiciones: Promedio de ventas 
 ```mermaid
+ flowchart TD
 A(("."))
 B["."]
 C["."]
