@@ -13,7 +13,10 @@
 #CALCULADOR DE PROMEDIO DE VENTAS
 \
 ```mermaid
-graph TD;
+flowchart TD
+A ((INICIO))
+B((Definir cantidadProducntos))
+C((Definir Promedio))
     A-->B;
     A-->C;
     B-->D;
