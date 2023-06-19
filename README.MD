@@ -8,3 +8,4 @@
 3. No se realiza validación, ni se verifica calidad en los datos ingresados 
 
 **Historia de usuario**
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='100px'}
