@@ -79,13 +79,13 @@ Postcondiciones: Promedio de ventas
 ***
 ##Aproximación Seudocódigo
  Algoritmo Ferreteria
+ 
 	Definir CantidadProductos Como Entero
 	Definir promedio como real
 	Escribir "INGRESE LA CANTIDAD DE PRODUCTOS A EVALUAR"
 	Leer CantidadProductos
 	Dimension  identificacion[CantidadProductos], nombres[CantidadProductos]
-	Dimension  precio[CantidadProductos]
-		
+	Dimension  precio[CantidadProductos]		
 	Para i=1 Hasta CantidadProductos Con Paso 1
 		Escribir "INGRESE LA IDENTIFICACION DEL PRODUCTO " ,i
 		Leer id
