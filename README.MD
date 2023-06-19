@@ -74,24 +74,9 @@
 ( Σ(Precio del producto 1, Precio del producto 2, Precio del producto 3, Precio del producto n) / Total ventas) / Cantidad productos
 4. Se Muestra el promedio de las ventas obtenidas
 Postcondiciones: Promedio de ventas 
-```mermaid
- flowchart TD
-A(("          
+![](https://github.com/Deison12/Taller1.github.io/blob/f6ab787bf3e6a6cad4f5ac1c25dde117bc776b9e/Diagrama%20en%20blanco.png)
 
-
-"))
-B["."]
-D["."]
-C["."]
-E["."]
-F["."]
-
-A-->B;
-A-->C;
-A-->D;
-D-->E;
-D-->F;
-```
+***
 
 
 
