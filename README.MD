@@ -9,3 +9,8 @@
 
 **Historia de usuario**
 ![](https://github.com/Deison12/Taller1.github.io/blob/bf70cd9a26cda8ef0a36828af4d35e639f467ebb/Historia%20de%20Usuario.png)
+\
+#CALCULADOR DE PROMEDIO DE VENTAS
+\
+floatchart TB
+A ((Inicio))
