@@ -12,7 +12,11 @@
 \
 #CALCULADOR DE PROMEDIO DE VENTAS
 \
-    mermaid
-Graph LR
-A ((INICIO))
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
