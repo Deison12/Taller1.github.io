@@ -12,8 +12,8 @@
 ![](https://github.com/Deison12/Taller1.github.io/blob/bf70cd9a26cda8ef0a36828af4d35e639f467ebb/Historia%20de%20Usuario.png)
 
 ***
-#CALCULADOR DE PROMEDIO DE VENTAS
-\
+##CALCULADOR DE PROMEDIO DE VENTAS
+
 ```mermaid
  flowchart TD
  A(("INICIO"))
@@ -56,11 +56,21 @@
     R-->S;
     S-->R;
     R-->T;
-    T-->V;
-    
-    
-   
-    
-    
+    T-->V;   
 ```
+***
+## CASO DE USO
+
+**Nombre:** Calculador del Promedio de ventas
+**Actores:** Ferretero
+**Propósito:** Guardar identificación, nombre, precio-
+**Curso Normal de Eventos:**
+1. El Ferretero ingresa la cantidad de productos a evaluar.
+2. El Ferretero ingresa la identificación, nombre, curso, y el valor del producto.
+3. Se calcula el promedio a partir de:
+( Σ(Precio del producto 1, Precio del producto 2, Precio del producto 3, Precio del producto n) / Total ventas) / Cantidad productos
+4. Se Muestra el promedio de las ventas obtenidas
+Postcondiciones: Promedio de ventas 
+
+
 
