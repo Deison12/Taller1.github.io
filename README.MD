@@ -78,6 +78,7 @@ Postcondiciones: Promedio de ventas
 
 ***
 ##Aproximación Seudocódigo
+\
  Algoritmo Ferreteria
  
 	Definir CantidadProductos Como Entero
@@ -104,7 +105,6 @@ Postcondiciones: Promedio de ventas
 	
 	Imprimir "El promedio de ventas es: ",promedio	
 FinAlgoritmo
-
-
+***
 
 
