@@ -34,6 +34,12 @@
  S["PROMEDIO = PROMEDIO + PRECIO[i]/ CANTIDADPRODUCTO"]
  T[/PROMEDIO/]
  V(((FIN)))
+    A-->B;
+    B-->C;
+    C-->D;
+    D-->E;
+    E-->F;
+    F-->G;
     G-->H;
     H-->I;
     I-->J;
